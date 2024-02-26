@@ -1,0 +1,10 @@
+19:17:16 **** Incremental Build of configuration Debug for project userapp ****
+make -j12 all 
+arm-none-eabi-size   userapp.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8232	     20	   1644	   9896	   26a8	userapp.elf
+Finished building: default.size.stdout
+ 
+
+19:17:17 Build Finished. 0 errors, 0 warnings. (took 204ms)
+
